@@ -27,13 +27,17 @@
 #### - Front-end: Netlify
 #### - Database: Postgresql 12
 
-# Home Page
+# 🏠 Home Page
+
+![Home](https://github.com/enzoggqs/projeto-sds3/blob/main/frontend/src/assets/img/home.png)
 
 # 🎯 Dashboard
 
-# 📚 Layers Structure
+![Dashboard](https://github.com/enzoggqs/projeto-sds3/blob/main/frontend/src/assets/img/dashboard.png)
 
 # ✏️ Conceptual Model
+
+![Conceptual-model](https://github.com/enzoggqs/projeto-sds3/blob/main/frontend/src/assets/img/conceptualModel.png)
 
 ## 🖥️ How To Run The Project
 
